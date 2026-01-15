@@ -1,0 +1,5 @@
+{
+  "name": "Pastel Wave Player",
+  "description": "A soft-aesthetic audio player with real-time waveform visualization, playlist management, and local file upload support, matching the provided design reference.",
+  "requestFramePermissions": []
+}
